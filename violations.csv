@@ -1,0 +1,66 @@
+language,filename,ruleid,startline,startcolumn,endline,endcolumn,message
+typescript,warship.ts,no-var-keyword,14,8,14,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,43,8,43,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,44,8,44,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,66,8,66,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,67,8,67,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,68,8,68,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,69,13,69,16,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,98,8,98,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,101,13,101,16,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,103,17,103,20,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,112,28,112,31,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,113,28,113,31,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,114,28,114,31,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,115,28,115,31,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,116,28,116,31,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,124,8,124,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,125,13,125,16,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,126,12,126,15,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,140,28,140,31,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,158,8,158,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,159,8,159,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,175,8,175,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,188,8,188,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,189,8,189,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,198,12,198,15,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,217,8,217,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,219,17,219,20,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,220,16,220,19,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,229,8,229,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,230,13,230,16,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,234,8,234,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,237,8,237,11,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,238,12,238,15,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,251,12,251,15,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,252,12,252,15,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,258,13,258,16,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,259,12,259,15,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,264,13,264,16,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,265,12,265,15,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,267,12,267,15,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,268,17,268,20,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,269,16,269,19,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,no-var-keyword,270,16,270,19,Forbidden 'var' keyword, use 'let' or 'const' instead
+typescript,warship.ts,quotemark,15,17,15,22,' should be "
+typescript,warship.ts,quotemark,15,46,15,54,' should be "
+typescript,warship.ts,quotemark,134,33,134,41,' should be "
+typescript,warship.ts,quotemark,137,28,137,39,' should be "
+typescript,warship.ts,quotemark,180,36,180,43,' should be "
+typescript,warship.ts,quotemark,202,44,202,53,' should be "
+typescript,warship.ts,quotemark,204,44,204,54,' should be "
+typescript,warship.ts,quotemark,207,40,207,45,' should be "
+typescript,warship.ts,quotemark,212,36,212,50,' should be "
+typescript,warship.ts,quotemark,310,21,310,28,' should be "
+typescript,warship.ts,quotemark,327,21,327,35,' should be "
+typescript,warship.ts,quotemark,330,21,330,26,' should be "
+typescript,warship.ts,quotemark,334,21,334,31,' should be "
+typescript,warship.ts,quotemark,338,21,338,30,' should be "
+typescript,warship.ts,quotemark,347,21,347,35,' should be "
+typescript,warship.ts,quotemark,348,21,348,26,' should be "
+typescript,warship.ts,quotemark,351,21,351,31,' should be "
+typescript,warship.ts,quotemark,355,21,355,30,' should be "
+typescript,warship.ts,quotemark,385,29,385,35,' should be "
+typescript,warship.ts,quotemark,386,40,386,46,' should be "
+typescript,warship.ts,semicolon,171,9,171,9,Missing semicolon
+typescript,warship.ts,semicolon,265,40,265,40,Missing semicolon
